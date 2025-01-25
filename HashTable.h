@@ -1,11 +1,3 @@
-/** Title: Hashing
-Author: Daib Malik
-ID: 22201013
-Section : 1
-Homework: 3
-Description : HashTable
-**/
-
 #ifndef HW3_202_HASHTABLE_H
 #define HW3_202_HASHTABLE_H
 
@@ -23,4 +15,4 @@ private:
     int myhash(int x) const;
 };
 
-#endif //HW3_202_HASHTABLE_H
+#endif
