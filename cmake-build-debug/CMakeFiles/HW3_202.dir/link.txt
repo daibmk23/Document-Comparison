@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/HW3_202.dir/substrings.cpp.o CMakeFiles/HW3_202.dir/minimalset.cpp.o CMakeFiles/HW3_202.dir/documents.cpp.o CMakeFiles/HW3_202.dir/HashTable.cpp.o CMakeFiles/HW3_202.dir/lexicographic.cpp.o CMakeFiles/HW3_202.dir/insertionorders.cpp.o -o HW3_202 
