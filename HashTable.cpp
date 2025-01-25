@@ -1,10 +1,3 @@
-/** Title: Hashing
-Author: Daib Malik
-ID: 22201013
-Section : 1
-Homework: 3
-Description : HashTable
-**/
 #include "HashTable.h"
 
 HashTable::HashTable(int size) {
